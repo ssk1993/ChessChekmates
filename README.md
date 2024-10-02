@@ -22,4 +22,7 @@ Output
 
 The final visualization combines multiple heatmaps and a bar chart, providing insights into how and where checkmates occur in chess games.
 
+![chess_heatmap_subplots](https://github.com/user-attachments/assets/6e28bb47-7855-48fc-b623-97755ab53dce)
+
+
 Feel free to explore the code and visuals. Contributions and feedback are welcome!
